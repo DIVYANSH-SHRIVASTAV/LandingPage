@@ -1,0 +1,11 @@
+
+
+    Backend (Node + Express + MongoDB + JWT + bcrypt):
+        Routes for register, login, protected dashboard, update profile, etc.
+        User model with name, email, password, timestamps.
+        Middleware to protect routes (JWT verification).
+
+    Frontend (React + TailwindCSS + React Router + Axios):
+        Landing page, Login, Register, Profile, Dashboard.
+        Error/Success toasts, form validation, spinners, responsive Navbar.
+        Dark mode toggle.
